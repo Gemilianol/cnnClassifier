@@ -1,0 +1,1 @@
+from src.cnnClassifier.entity.config_entity import (DataIngestionConfig)
